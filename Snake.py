@@ -1,3 +1,4 @@
+#This is the first comment
 import pygame
 import time
 from random import randint
